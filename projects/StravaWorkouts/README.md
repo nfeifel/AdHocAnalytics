@@ -8,6 +8,6 @@ If you haven't already set up API access for your account, you can follow Strava
 
 <p align="center">
   <a>
-      <img src="https://github.com/nfeifel/analytics/blob/master/projects/strava_workouts/cover_image.png" alt="My Image" width="700" />
+      <img src="https://github.com/nfeifel/AdHocAnalytics/blob/master/projects/StravaWorkouts/cover_image.png" alt="My Image" width="700" />
   </a>
 </p>
