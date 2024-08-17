@@ -4,6 +4,6 @@ I'm a big Kanye fan and like investing too. Just for fun, in this analysis, I lo
 
 <p align="center">
   <a href="https://medium.com/@n_feifel/the-stock-market-does-better-when-kanye-drops-an-album-9ea5383fe37c">
-      <img src="https://github.com/nfeifel/analytics/blob/master/projects/kanye_stock_market_correlation/cover_image.jpeg" alt="My Image" width="650" />
+      <img src="https://github.com/nfeifel/AdHocAnalytics/blob/master/projects/KanyeStockMarketCorrelation/cover_image.jpeg" alt="My Image" width="650" />
   </a>
 </p>
