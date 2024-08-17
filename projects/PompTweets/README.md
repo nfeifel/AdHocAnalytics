@@ -4,6 +4,6 @@
 
 <p align="center">
   <a href="https://twitter.com/APompliano/status/1125171264518275072">
-      <img src="https://github.com/nfeifel/analytics/blob/master/projects/pomp_tweets/cover_image.png" alt="My Image" width="650" />
+      <img src="https://github.com/nfeifel/AdHocAnalytics/blob/master/projects/PompTweets/cover_image.png" alt="My Image" width="650" />
   </a>
 </p>
