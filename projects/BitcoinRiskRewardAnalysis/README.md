@@ -2,7 +2,7 @@
 
 In this project, I explore if bitcoin is too risky to invest in relative to historical upside. [See write up here.](https://medium.com/@n_feifel/is-bitcoin-too-risky-to-own-924c9148301)
 
-Sneak peek of a chart:
+Sneak peek of a chart from this project:
 <p align="left">
   <a href="https://medium.com/@n_feifel/is-bitcoin-too-risky-to-own-924c9148301">
       <img src="https://github.com/nfeifel/AdHocAnalytics/blob/master/projects/BitcoinRiskRewardAnalysis/cover_image.jpeg" alt="My Image" width="650" />
