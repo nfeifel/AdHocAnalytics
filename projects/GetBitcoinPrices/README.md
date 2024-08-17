@@ -4,6 +4,6 @@ This basic program allows you to pull historical price data for bitcoin from [Co
 
 <p align="center">
   <a>
-      <img src="https://github.com/nfeifel/analytics/blob/master/projects/get_bitcoin_prices/cover_image.jpeg" alt="My Image" width="850" />
+      <img src="https://github.com/nfeifel/AdHocAnalytics/blob/master/projects/GetBitcoinPrices/cover_image.jpeg" alt="My Image" width="850" />
   </a>
 </p>
